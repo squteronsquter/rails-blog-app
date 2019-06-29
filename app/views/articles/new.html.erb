@@ -1,6 +1,6 @@
 <h1>Create a new article</h1>
 <% if @article.errors.any? %>
-<h2>Article has not been created. Error message are being displayed below to put you back on the track</h2>
+<h2>Article has not been created. Read message with error details to find out why.</h2>
 <ul>
 <% @article.errors.full_messages.each do |msg| %>
 <li><%= msg %></li>
