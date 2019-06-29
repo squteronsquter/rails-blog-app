@@ -1,7 +1,8 @@
 # SIMPLE BLOG APP BUILT WITH RUBY-ON-RAILS 5.2
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Clone of save to your local computer:
+
+`git clone https://github.com/squteronsquter/rails-blog-app`
 
 Things you may want to cover:
 
